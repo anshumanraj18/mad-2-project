@@ -1,0 +1,9 @@
+flask
+flask_sqlalchemy
+flask_security_too
+flask_restful
+argon2-cffi
+
+
+# frontent
+bootstrap
